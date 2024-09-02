@@ -30,8 +30,8 @@ I am a passionate and versatile developer specializing in MERN stack development
 
 ## 📈 Latest Work
 
-- **Portfolio**: [[harsh.dev](https://your-portfolio-link.com)](https://github.com/harshvardhan119/ReactPortfolio)
-- **GitHub Projects**: [[github.com/your-username](https://github.com/your-username)](https://github.com/harshvardhan119)
+- **Portfolio**: (https://github.com/harshvardhan119/ReactPortfolio)
+- **GitHub Projects**: (https://github.com/harshvardhan119)
 
 ## 🤝 Let's Connect
 
