@@ -20,8 +20,7 @@ I am a passionate and versatile developer specializing in MERN stack development
 - **Databases**: MongoDB, Firebase, SQL,HeidlSQL,NoSQL,MySQL
 - **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, ARIMA, Prophet, LSTM
 - **Tools**: Git, Docker, CI/CD, Jenkins, Postman
-##💻 Tech Stack:
-C CSS3 HTML5 Java JavaScript Kotlin Python PowerShell TypeScript Firebase AWS Google Cloud Oracle Anaconda Angular Bootstrap Django Express.js Flutter NodeJS Next JS OpenCV React React Native Socket.io TailwindCSS Vite MariaDB Firebase MongoDB MySQL Adobe Adobe Photoshop Canva Figma Keras Matplotlib NumPy Pandas Scipy TensorFlow PyTorch scikit-learn GitLab CI GitHub Actions Git
+
 
 ## 🌱 Current Projects
 
