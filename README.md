@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate and versatile developer specializing in MERN stack development, app creation, blockchain technology, and artificial intelligence/machine learning. With a strong foundation in full-stack development and a keen interest in emerging technologies, I thrive on building innovative solutions and tackling complex challenges.
+I am a passionate and versatile developer specializing in MERN stack development, app creation and generative AI Developer. With a strong foundation in full-stack development and a keen interest in emerging technologies, I thrive on building innovative solutions and tackling complex challenges.
 
 ## 🌟 What I Do
 
