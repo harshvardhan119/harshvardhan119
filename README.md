@@ -13,12 +13,11 @@ I am a passionate and versatile developer specializing in MERN stack development
 
 ## 🚀 Technologies & Tools
 
-- **Programming Languages**: JavaScript, TypeScript, Python, Solidity,C,C++
-- **Front-End**: React.js, Flutter, HTML5, CSS3,Java app,Kotlin app
+- **Programming Languages**: JavaScript, TypeScript, Python,C,C++
+- **Front-End**: React.js, Flutter, HTML5, CSS3,Next js,Kotlin app
 - **Back-End**: Node.js, Express.js, Firebase,MariaDb,python,Django,Flask
-- **Blockchain**: Ethereum, Solidity, Smart Contracts
 - **Databases**: MongoDB, Firebase, SQL,HeidlSQL,NoSQL,MySQL
-- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, ARIMA, Prophet, LSTM
+- **AI/ML**: TeGemini,Chatgpt,Lama
 - **Tools**: Git, Docker, CI/CD, Jenkins, Postman
 
 
