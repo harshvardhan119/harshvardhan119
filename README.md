@@ -30,7 +30,7 @@ I am a passionate and versatile developer specializing in MERN stack development
 
 ## 📈 Latest Work
 
-- **Portfolio**:  https://66efdd37de4e9a6d27d73273--wonderful-biscuit-a18a77.netlify.app/
+- **Portfolio**:  https://wonderful-biscuit-a18a77.netlify.app
 - **GitHub Projects**: (https://github.com/harshvardhan119)
 
 ## 🤝 Let's Connect
