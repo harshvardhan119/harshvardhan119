@@ -35,7 +35,7 @@ I am a passionate and versatile developer specializing in MERN stack development
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [[Harsh's LinkedIn](https://www.linkedin.com/in/your-profile/)](https://www.linkedin.com/in/harsh-vardhan-singh-083721257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 
 - **Email**:harshvardhansinghha@gmail.com
 ## Freelance Works
